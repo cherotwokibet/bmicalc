@@ -9,8 +9,8 @@ View page https://pimabmi.herokuapp.com/
 Set your height and weight uisng the scroll bar.
 
 ## Technologies Used
--create-react-app
--uuid
+- create-react-app
+- uuid
 
 ## To install
 Run $npm install
